@@ -1,1 +1,3 @@
-This is the data set for my build week. I used the [sports-reference](https://www.pro-football-reference.com) api to pull data from. This api was created by Robert Clark, please visit his profile and blog on medium for further reference. https://medium.com/clarktech-sports/python-sports-analytics-made-simple-part-2-40e591a7f3db
+This is the data set for my build week. I used the ports-reference api to pull data from. https://www.pro-football-reference.com
+
+This api was created by Robert Clark, please visit his profile and blog on medium for further reference. https://medium.com/clarktech-sports/python-sports-analytics-made-simple-part-2-40e591a7f3db
